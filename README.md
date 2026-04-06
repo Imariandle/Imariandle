@@ -41,10 +41,6 @@ Based in  →  Morocco
 ### GitHub stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ariandle&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
