@@ -15,7 +15,6 @@ Side work →  Web apps, indie projects, freelance
 Based in  →  Morocco
 ```
 
-</div>
 
 ---
 
@@ -59,3 +58,4 @@ Based in  →  Morocco
 
 <!-- Profile views counter -->
 <img src="https://komarev.com/ghpvc/?username=Imariandle&color=7F77DD&style=flat-square" alt="profile views"/>
+</div>
