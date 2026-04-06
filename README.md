@@ -2,11 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=7F77DD%C2%A2er=true&vCenter=true&width=435&lines=Hey+there%2C+I%27m+ariandle+%F0%9F%91%8B;Mobile+%26+App+Developer;Building+things+that+matter." alt="Typing SVG" />
 
----
 
 ### About me
 
-```
 <table align="center">
   <tr><td align="right"><b>Name</b></td><td>Moughit Moutaouakkil / ariandle</td></tr>
   <tr><td align="right"><b>Focus</b></td><td>Mobile & App Development</td></tr>
@@ -16,7 +14,6 @@
 </table>```
 
 
----
 
 ### Tech stack
 
