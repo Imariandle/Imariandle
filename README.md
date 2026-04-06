@@ -11,7 +11,7 @@
   <tr><td align="right"><b>Stack</b></td><td>Flutter · JavaScript · Dart</td></tr>
   <tr><td align="right"><b>Side work</b></td><td>Web apps, indie projects, freelance</td></tr>
   <tr><td align="right"><b>Based in</b></td><td>Salé, Morocco 🇲🇦</td></tr>
-</table>```
+</table>
 
 
 
@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
 
 
 ### GitHub stats
@@ -40,7 +39,6 @@
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
----
 
 ### Let's connect
 
