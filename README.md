@@ -7,13 +7,13 @@
 ### About me
 
 ```
-Moughit Moutaouakkil / Imariandle
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Focus     →  Mobile & App Development
-Stack     →  Flutter · Javascript · Dart
-Side work →  Web apps, indie projects, freelance
-Based in  →  Morocco
-```
+<table align="center">
+  <tr><td align="right"><b>Name</b></td><td>Moughit Moutaouakkil / ariandle</td></tr>
+  <tr><td align="right"><b>Focus</b></td><td>Mobile & App Development</td></tr>
+  <tr><td align="right"><b>Stack</b></td><td>Flutter · JavaScript · Dart</td></tr>
+  <tr><td align="right"><b>Side work</b></td><td>Web apps, indie projects, freelance</td></tr>
+  <tr><td align="right"><b>Based in</b></td><td>Salé, Morocco 🇲🇦</td></tr>
+</table>```
 
 
 ---
