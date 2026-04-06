@@ -1,18 +1,16 @@
-<!-- Replace all YOUR_USERNAME / YOUR_NAME / YOUR_BIO placeholders -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F77DD¢er=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+YOUR_NAME+%F0%9F%91%8B;Mobile+%26+App+Developer;Building+things+that+matter." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=7F77DD%C2%A2er=true&vCenter=true&width=435&lines=Hey+there%2C+I%27m+Imariandle+%F0%9F%91%8B;Mobile+%26+App+Developer;Building+things+that+matter." alt="Typing SVG" />
 
 ---
 
 ### About me
 
 ```
-YOUR_NAME / YOUR_USERNAME
+Moughit Moutaouakkil / YOUR_USERNAME
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Focus     →  Mobile & App Development
-Stack     →  Flutter · Firebase · Dart
+Stack     →  Flutter · Javascript · Dart
 Side work →  Web apps, indie projects, freelance
 Based in  →  Morocco
 ```
@@ -36,15 +34,6 @@ Based in  →  Morocco
 
 ---
 
-### Featured projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🎮 **Marcade** | Esports tournament platform for the Moroccan gaming community | Flutter · Firebase |
-| 🛍️ **Shop App** | Mobile storefront with admin panel & WhatsApp ordering | Flutter · Firebase |
-| 💊 **Nour Parapharma** | Trilingual e-commerce site (FR/AR/EN) with RTL support | Next.js · Firebase |
-
----
 
 ### GitHub stats
 
@@ -62,16 +51,13 @@ Based in  →  Morocco
 ### Let's connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.instagram.com/justmoughit">
+    <img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/YOUR_DISCORD">
+  <a href="https://discord.gg/3RjeXSBhWR">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7F77DD&style=flat-square" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Imariandle&color=7F77DD&style=flat-square" alt="profile views"/>
